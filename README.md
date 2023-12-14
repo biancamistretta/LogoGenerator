@@ -30,4 +30,14 @@ N/A
 If you have any questions, feel free to reach out to me at biancamistretta98@gmail.com.
 
 GitHub: [biancamistretta](https://github.com/biancamistretta)
+LINK TO VIDEO: https://drive.google.com/file/d/1pEX8y3NiJIEWVCvCJIMZKk8CZlMAGYFG/view?usp=sharing
+EXAMPLE:![logo](https://github.com/biancamistretta/LogoGenerator/assets/142269375/9c95e119-66d8-4693-bf78-4336d1037393)
+
+    <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100%" height="100%" fill="Yellow"/>
+      <circle width="100" height="100" fill="Green"></circle>
+      <text x="50%" y="50%" dy="0.35em" text-anchor="middle" fill="Green">BMM</text>
+    </svg>
+  
+
 
