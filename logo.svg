@@ -1,0 +1,7 @@
+
+    <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100%" height="100%" fill="Yellow"/>
+      <circle width="100" height="100" fill="Green"></circle>
+      <text x="50%" y="50%" dy="0.35em" text-anchor="middle" fill="Green">BMM</text>
+    </svg>
+  
