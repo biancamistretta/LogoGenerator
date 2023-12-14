@@ -1,7 +1,7 @@
 # Logo Generator
 
 ## Description
-Use your terminal to create a readme 
+Use your terminal to create a logo 
 
 ## Table of Contents
 1. [Installation](#installation)
@@ -31,7 +31,9 @@ If you have any questions, feel free to reach out to me at biancamistretta98@gma
 
 GitHub: [biancamistretta](https://github.com/biancamistretta)
 LINK TO VIDEO: https://drive.google.com/file/d/1pEX8y3NiJIEWVCvCJIMZKk8CZlMAGYFG/view?usp=sharing
-EXAMPLE:![logo](https://github.com/biancamistretta/LogoGenerator/assets/142269375/9c95e119-66d8-4693-bf78-4336d1037393)
+EXAMPLE:
+
+![logo](https://github.com/biancamistretta/LogoGenerator/assets/142269375/4bd119ef-16d5-4147-9f92-71182e6f0908)
 
     <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
       <rect width="100%" height="100%" fill="Yellow"/>
@@ -39,5 +41,4 @@ EXAMPLE:![logo](https://github.com/biancamistretta/LogoGenerator/assets/14226937
       <text x="50%" y="50%" dy="0.35em" text-anchor="middle" fill="Green">BMM</text>
     </svg>
   
-
 
